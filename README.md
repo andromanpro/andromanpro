@@ -1,4 +1,4 @@
-# Роман Андриянов — Архитектор 1С
+# Роман Андриянов — разработчик 1С
 
 ```
 🎯 17+ лет • 1С:Предприятие • AI-интеграции • 20+ корпоративных проектов
@@ -76,7 +76,7 @@ _Ведущий программист_
 💬 **Telegram:** [@andromanpro](https://t.me/andromanpro)  
 🔗 **LinkedIn:** [andromanpro](https://www.linkedin.com/in/andromanpro)  
 💻 **Сайт:** [androman.pro](https://androman.pro)  
-🏢 **Компания:** [Tnext](https://tnext.io)
+🏢 **Компания:** [Tnext](https://tnext.ru)
 
 ---
 
