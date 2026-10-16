@@ -1,15 +1,22 @@
-# Разработчик 1С
+# Роман Андриянов
 
-```
-💻 1С:Предприятие (8.3.x, EDT)
-🤖 AI-интеграции • REST API • ERP-архитектура
-20+ корпоративных проектов
-Москва, Россия | androman.pro
-```
+**1С-архитектор. Создаю ИИ-инструменты для корпоративных систем.**
 
-📧 **Email:** [andromanpro@gmail.com](mailto:andromanpro@gmail.com)  
-💬 **Telegram:** [@andromanpro](https://t.me/andromanpro)  
-🔗 **LinkedIn:** [andromanpro](https://www.linkedin.com/in/andromanpro)  
-💻 **Сайт:** [androman.pro](https://androman.pro)  
+17+ лет в 1С: архитектура, производительность, интеграции и разбор сложных ошибок. Развиваю инструменты для работы с моделями и данными, проверяю их тестами и пользовательскими сценариями, пишу о результатах на [androman.pro](https://androman.pro).
 
+## Основные проекты
 
+- [ИИкона](https://github.com/andromanpro/1c-ai-connector) — расширение 1С: подключение языковых моделей, агентская петля, поиск по базе знаний, MCP-сервер, мониторинг ошибок и диаграммы. [Руководство](https://github.com/andromanpro/1c-ai-connector-guide) · [Тесты](https://github.com/andromanpro/1c-ai-connector-tests).
+- [ИИскра](https://github.com/andromanpro/1c-ai-dev-starterpack) — стартовый набор ИИ-разработки в 1С: настройка среды, правила для агента и стенд приёмки.
+- [neon-legion](https://github.com/andromanpro/neon-legion) — локальный учёт использования ИИ и оркестрация агентов: расходы, события сессий и проверка результатов.
+- [CodePilot1C для EDT](https://github.com/andromanpro/codepilot1c-edt) — развиваю собственный форк открытого плагина для работы ИИ-агентов с проектами 1C:EDT.
+
+## Лаборатория
+
+В свободное время делаю браузерные эксперименты с графикой и физикой: [Хватайка](https://github.com/andromanpro/claw-machine), [СЧЁТМАШ-83](https://github.com/andromanpro/schetmash-83), [визуализация диалогов с ИИ](https://github.com/andromanpro/ai-conversation-viz). [Все эксперименты на сайте](https://androman.pro/labs/).
+
+## Работа со мной
+
+Архитектура и аудит 1С, производительность, интеграции, прототипы ИИ-автоматизации на данных компании. Начинаю с разбора задачи и критериев проверки результата.
+
+[Сайт и статьи](https://androman.pro) · [Telegram](https://t.me/andromanpro) · [Email](mailto:andromanpro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andromanpro)
