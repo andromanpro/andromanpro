@@ -13,10 +13,10 @@
 
 ## Лаборатория
 
-В свободное время делаю браузерные эксперименты с графикой и физикой: [Хватайка](https://github.com/andromanpro/claw-machine), [СЧЁТМАШ-83](https://github.com/andromanpro/schetmash-83), [визуализация диалогов с ИИ](https://github.com/andromanpro/ai-conversation-viz). [Все эксперименты на сайте](https://androman.pro/labs/).
+В свободное время делаю браузерные эксперименты с графикой и физикой: [Хватайка](https://github.com/andromanpro/claw-machine), [СЧЁТМАШ-83](https://github.com/andromanpro/schetmash-83), [визуализация диалогов с ИИ](https://github.com/andromanpro/ai-conversation-viz). [Все эксперименты на сайте](https://androman.pro/labs/). От программирования отдыхаю сменой репозитория.
 
-## Работа со мной
+## О чём можно поговорить
 
-Архитектура и аудит 1С, производительность, интеграции, прототипы ИИ-автоматизации на данных компании. Начинаю с разбора задачи и критериев проверки результата.
+Архитектура 1С, интеграции, качество разработки и ИИ-инструменты. Делюсь опытом, развиваю открытые проекты и обсуждаю инженерные задачи.
 
 [Сайт и статьи](https://androman.pro) · [Telegram](https://t.me/andromanpro) · [Email](mailto:andromanpro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andromanpro)
