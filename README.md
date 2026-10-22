@@ -11,6 +11,12 @@
 - [neon-legion](https://github.com/andromanpro/neon-legion) — локальный учёт использования ИИ и оркестрация агентов: расходы, события сессий и проверка результатов.
 - [CodePilot1C для EDT](https://github.com/andromanpro/codepilot1c-edt) — развиваю собственный форк открытого плагина для работы ИИ-агентов с проектами 1C:EDT.
 
+## Инструменты для своей рутины
+
+- [Гранка](https://github.com/andromanpro/granka) — локальный редактор статей: замечания ИИ, решения автора, версии и подготовка публикаций. Скобочки остаются под защитой автора).
+- [Make it ZBS](https://github.com/andromanpro/make-it-zbs) — ИИ-помощник для Windows: выделить текст или код, вызвать горячей клавишей, проверить и применить результат. Сейчас beta.
+- [Motivelium](https://github.com/andromanpro/motivelium) — редактор видео со сценами, таймлайном и экспортом MP4. Ранняя alpha, нужны внешние пробы.
+
 ## Лаборатория
 
 В свободное время делаю браузерные эксперименты с графикой и физикой: [Хватайка](https://github.com/andromanpro/claw-machine), [СЧЁТМАШ-83](https://github.com/andromanpro/schetmash-83), [визуализация диалогов с ИИ](https://github.com/andromanpro/ai-conversation-viz). [Все эксперименты на сайте](https://androman.pro/labs/). От программирования отдыхаю сменой репозитория.
